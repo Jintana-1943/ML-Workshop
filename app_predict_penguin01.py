@@ -64,7 +64,7 @@ with tab2:
     ])
     st.plotly_chart(fig, use_container_width=True)
     
-  with tab3:
+with tab3:
     st.header("Penguin Species")
     
     st.divider()
