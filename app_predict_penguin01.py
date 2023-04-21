@@ -9,7 +9,7 @@ import streamlit as st
 
 st.title('My ML-Workshop')
 
-tab1, tab2, tab3 = st.tabs(["Penquin Preditiction", "Evaluation", "About us"])
+tab1, tab2, tab3 = st.tabs(["Penquin Preditiction", "Evaluation", "About Penquin Species"])
 
 with tab1:
     
